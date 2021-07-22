@@ -6,7 +6,7 @@ global TOKEN
 global state
 Url = "https://cf090f5a97fe.ngrok.io"
 bot_user_name = "Ross_Lesotho_bot"
-TOKEN = "1592081568:AAFkuf-eurEzQEvCLqoR3fuBu9rPDNNuVoY"
+TOKEN = "1592081568:AAFkuf"
 bot = telegram.Bot(token=TOKEN)
 
 
